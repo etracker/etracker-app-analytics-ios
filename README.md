@@ -1,6 +1,6 @@
 # etracker-app-analytics
 
-This repository privides the iOS library for etracker App Analytics.
+This repository provides the iOS library for etracker App Analytics.
 
 ## Installation
 
