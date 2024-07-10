@@ -1,5 +1,7 @@
 # etracker-app-analytics
 
+This repository privides the iOS library for etracker App Analytics.
+
 ## Installation
 
 To install this pod into your project, simply add the following lines to your Podfile:
